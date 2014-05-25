@@ -1,0 +1,2 @@
+{'Brian': {'quizzes': [], 'tests': [74.0], 'name': 'Brian', 'homework': []}, 'Mark': {'quizzes': [88.0, 40.0, 94.0], 'tests': [75.0, 90.0], 'name': 'Mark', 'homework': [90.0, 97.0, 75.0, 92.0]}, 'Alex': {'quizzes': [], 'tests': [], 'name': 'Alex', 'homework': [99.0]}, 'Tom': {'quizzes': [88.0, 40.0, 94.0, 90.0], 'tests': [75.0, 90.0], 'name': 'Tom', 'homework': [90.0, 97.0, 75.0, 92.0]}}
+{'qzPercent': 0.3, 'tsPercent': 0.6, 'hwPercent': 0.1}
