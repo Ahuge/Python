@@ -1,1 +1,1 @@
-This is
+This is a fairly far fetched tool that will project earnings based on a annual deposit amount that is either the same amount or linearly changing over the simulation. It also allows you to assume investment growth annually. This tool will show you how much you'll have each year and then at the end how much more you've earned after the compound intrest has set in.
